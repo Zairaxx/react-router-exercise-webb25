@@ -35,7 +35,7 @@ export function UsersPage() {
 
   return(
   <div className="users-container">
-      <h2 className="users-title">🌰 Users</h2>
+      <h2 className="users-title">Users</h2>
 
       {/* Add user */}
       <div className="users-add-container">

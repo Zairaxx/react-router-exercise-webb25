@@ -2,7 +2,7 @@ export function AboutPage() {
 
       return (
       <div className="about-container">
-        <h2 className="about-title">🍁 Om Ankademin</h2>
+        <h2 className="about-title">Om Ankademin</h2>
 
         
         <div className="ankademin-logo">
