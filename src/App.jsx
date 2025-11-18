@@ -19,8 +19,9 @@ export default function App() {
         <li>NotFound</li>
       </ul>
       <p className="app-instruction">Din uppgift: Lägg till BrowserRouter, Routes och Route så att sidorna fungerar. Se till att navigation mellan sidorna är möjligt.</p>
+      <p className="app-instruction">Glöm inte att skapa en navigation så du kan navigera dig emellan sidorna</p>
+      <p className="app-instruction">Blir du färdig - Lägg till mer innehåll i de olika undersidorna!</p>
 
-      
       <HomePage/>
       <AboutPage/>
       <UsersPage/>
