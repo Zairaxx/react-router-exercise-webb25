@@ -18,7 +18,7 @@ export default function App() {
         <li>Users</li>
         <li>NotFound</li>
       </ul>
-      <p className="app-instruction">Din uppgift: Lägg till BrowserRouter, Routes och Route så att sidorna fungerar.</p>
+      <p className="app-instruction">Din uppgift: Lägg till BrowserRouter, Routes och Route så att sidorna fungerar. Se till att navigation mellan sidorna är möjligt.</p>
 
       
       <HomePage/>
