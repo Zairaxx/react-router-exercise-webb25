@@ -1,0 +1,52 @@
+/* Enkel reset och styling */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #f7f7f7;
+}
+
+a {
+  color: blue;
+}
+
+/* App layout */
+.app-container { padding: 24px; }
+.app-title { font-size: 2rem; font-weight: bold; }
+.app-list { margin-left: 24px; list-style: disc; }
+.app-instruction { font-style: italic; }
+
+/* Home */
+.home-container { padding: 24px; background: #fdf6e3; border: 1px solid #e7d9b9; border-radius: 16px; }
+.home-title { font-size: 1.75rem; color: #8b5e34; }
+.home-text { color: #6b4e2e; }
+
+/* About */
+.about-container { padding: 24px; background: #fff3e6; border: 1px solid #eccfb3; border-radius: 16px; }
+.about-title { font-size: 1.75rem; color: #a65b2a; }
+.about-text { color: #8a4b20; }
+
+/* Users */
+.users-container { padding: 24px; background: #fff8d9; border: 1px solid #e8d9a8; border-radius: 16px; }
+.users-title { font-size: 1.75rem; color: #7a5a1a; }
+.users-add-container { margin-top: 16px; display: flex; gap: 8px; }
+.users-input { flex: 1; padding: 8px; border: 1px solid #ccc; border-radius: 8px; }
+.btn-add { padding: 8px 16px; background: #c28b00; color: white; border: none; border-radius: 8px; cursor: pointer; }
+.users-list { margin-left: 24px; margin-top: 16px; list-style: disc; }
+.users-list-item { display: flex; gap: 8px; align-items: center; }
+.users-edit-input { padding: 4px; border: 1px solid #ccc; border-radius: 4px; }
+.btn-save { padding: 4px 8px; background: #2b7a0b; color: white; border: none; border-radius: 4px; cursor: pointer; }
+.btn-edit { padding: 4px 8px; background: #1a5fb4; color: white; border: none; border-radius: 4px; cursor: pointer; }
+.btn-delete { padding: 4px 8px; background: #b41a1a; color: white; border: none; border-radius: 4px; cursor: pointer; }
+
+/* NotFound */
+.notfound-container { padding: 24px;}
+.notfound-title { font-size: 1.5rem; font-weight: bold;}
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #f7f7f7;
+}
+
+a {
+  color: blue;
+}
